@@ -78,3 +78,4 @@ credit-application-scoring/
 ├── industries.csv
 └── README.md
 ```
+[![View Notebook](https://img.shields.io/badge/View%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](credit-application-scoring-python/Credit_Application_Scoring.ipynb at main · mazovetskikh/credit-application-scoring-python)
