@@ -16,8 +16,8 @@ Two input files:
 
 | File | Description |
 |---|---|
-| `h3_applications.csv` | Applicant records: age, location, marital status, external credit rating, loan amount, application date |
-| `h3_industries.csv` | Industry risk scores (0–20 points) used to weight applicants by sector |
+| `applications.csv` | Applicant records: age, location, marital status, external credit rating, loan amount, application date |
+| `industries.csv` | Industry risk scores (0–20 points) used to weight applicants by sector |
 
 13,278 raw records across 7 weeks (December 2022 – January 2023).
 
