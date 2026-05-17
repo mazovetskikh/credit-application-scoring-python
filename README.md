@@ -68,7 +68,7 @@ Applications with `total_score > 0` are retained. Results are grouped by week, w
 - `left merge` to join industry scores without dropping unmatched applicants
 - `resample('W')` for time-based aggregation
 - `.clip()` to enforce score boundaries
-- 
+ 
 [![View Notebook](https://img.shields.io/badge/View%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://github.com/mazovetskikh/credit-application-scoring-python/blob/main/Credit_Application_Scoring.ipynb)
 ## Files
 
